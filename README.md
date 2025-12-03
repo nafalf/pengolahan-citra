@@ -105,10 +105,10 @@ Aplikasi ini mungkin terasa lebih lambat dibandingkan aplikasi edit foto pada um
 Tujuan utama aplikasi ini adalah **Edukasi** dan **Demonstrasi Logika**, bukan performa kecepatan.
 
 ---
+**Mata Kuliah:** Pengolahan Citra
 
 **Dibuat oleh:** 
-1. Iqbal Alwy 
-2. Sofwan Fadhillah 
-3. Malik afif 
+1. Iqbal Alwy Qurrois (123220034)
+2. Malik Afif (123220149)
+3. Sofwan Fadhillah (123220170)
 4. Muhammad Naufal Fauzi Ali (123220207)
-**Mata Kuliah:** Pengolahan Citra

@@ -107,8 +107,8 @@ Tujuan utama aplikasi ini adalah **Edukasi** dan **Demonstrasi Logika**, bukan p
 ---
 
 **Dibuat oleh:** 
-1.
-2. 
-3. 
+1. Iqbal Alwy 
+2. Sofwan Fadhillah 
+3. Malik afif 
 4. Muhammad Naufal Fauzi Ali (123220207)
 **Mata Kuliah:** Pengolahan Citra

@@ -106,5 +106,9 @@ Tujuan utama aplikasi ini adalah **Edukasi** dan **Demonstrasi Logika**, bukan p
 
 ---
 
-**Dibuat oleh:** [Nama Anda / Kelompok Anda]
-**Mata Kuliah:** Pengolahan Citra Digital
+**Dibuat oleh:** 
+1.
+2. 
+3. 
+4. Muhammad Naufal Fauzi Ali (123220207)
+**Mata Kuliah:** Pengolahan Citra

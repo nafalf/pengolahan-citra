@@ -4,7 +4,7 @@ Aplikasi ini adalah implementasi teknik Pengolahan Citra Digital (Computer Visio
 
 **Poin Utama:** Aplikasi ini **tidak** menggunakan fungsi instan dari library (seperti `cv2.cvtColor` atau `cv2.GaussianBlur`) untuk memproses gambar. Sebaliknya, semua manipulasi piksel dilakukan secara **manual menggunakan looping (perulangan)** untuk mendemonstrasikan pemahaman mendalam tentang algoritma matematika di balik citra digital.
 
-🔗 **Link Aplikasi:** [MASUKKAN LINK STREAMLIT CLOUD ANDA DI SINI]
+🔗 **Link Aplikasi:** [(https://pengolahan-citra-if-c.streamlit.app/)]
 
 ---
 

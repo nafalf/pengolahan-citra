@@ -54,7 +54,7 @@ Jika Anda ingin menjalankan aplikasi ini di komputer sendiri:
 
 1.  **Clone repository ini** (atau download zip):
     ```bash
-    git clone [https://github.com/nafalf/pengolahan-citra.git]
+    git clone https://github.com/nafalf/pengolahan-citra.git
     cd pengolahan-citra
     ```
 

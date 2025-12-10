@@ -1,4 +1,4 @@
-# 📷 Aplikasi Pengolahan Citra Digital (Algoritma Manual)
+# 📷 Aplikasi Pengolahan Citra Digital 
 
 Aplikasi ini adalah implementasi teknik Pengolahan Citra Digital (Computer Vision) yang dibangun menggunakan **Python** dan **Streamlit**. 
 
